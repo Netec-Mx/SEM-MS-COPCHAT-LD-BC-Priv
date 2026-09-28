@@ -1,0 +1,2 @@
+# 260927-SEM-MS-COPCHAT-LD-BC-Priv
+Laboratorios del curso 260927-SEM-MS-COPCHAT-LD-BC-Priv
