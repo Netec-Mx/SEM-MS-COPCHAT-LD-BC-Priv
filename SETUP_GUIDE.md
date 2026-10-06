@@ -2,7 +2,7 @@
 
 <p align="center"><img src="assets/LogoNetec.png" alt="NETEC" width="180" /></p>
 
-Guía consolidada de instalación y preparación del entorno.
+Guía consolidada de preparación del entorno para las prácticas secuenciales desarrolladas en Microsoft 365 Copilot Chat y Copilot Pages.
 
 | Curso | Clave | Versión | Estado | Última validación |
 |---|---|---|---|---|
@@ -16,7 +16,6 @@ Guía consolidada de instalación y preparación del entorno.
 
 ### Capítulo 2
 
-- [Práctica guiada 1. Crear el prompt base para resumir una oportunidad de inversión ficticia para una audiencia ejecutiva](Capitulo02/README.md#práctica-guiada-1-crear-el-prompt-base-para-resumir-una-oportunidad-de-inversión-ficticia-para-una-audiencia-ejecutiva)
 - [Práctica guiada 1. Crear el prompt base para resumir una oportunidad de inversión ficticia para una audiencia ejecutiva](Capitulo02/README.md#práctica-guiada-1-crear-el-prompt-base-para-resumir-una-oportunidad-de-inversión-ficticia-para-una-audiencia-ejecutiva)
 
 ### Capítulo 3
