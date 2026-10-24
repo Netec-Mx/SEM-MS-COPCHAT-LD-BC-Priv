@@ -8,7 +8,6 @@
 
 Te damos la bienvenida a la plataforma de laboratorios del curso Microsoft 365 Copilot Chat: Prompting y productividad aplicada. Aquí construirás, refinarás y validarás prompts para un caso de inversiones y finanzas que evoluciona durante las prácticas. Los resultados se consolidarán progresivamente en una misma Copilot Page.
 
-Antes de comenzar, consulta la [guía de preparación del entorno](SETUP_GUIDE.md).
 
 ## Lista de laboratorios
 
